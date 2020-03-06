@@ -1,11 +1,11 @@
-# Realtime-Private-Chat-using-Angular-Nodejs-and-Mysql
+# Realtime-Private-Chat-using-Angular-Nodejs-Mysql-Test
 As the title suggests, this app is private chat application, In which front-end is built-in AngularJs(version 1.6.5). This is SPA application, which uses UI-bootstrap.
 Server-side is written in Nodejs (version 8.9.3) and Mysql (version  5.7.21-log).
 
 
 ## Installation 
-1. `Run install`
-2. `node server.js`
+1. `npm i`
+2. `npm start`
 
 ## Explanation and Blog Post
 I have written a complete article on this application in three parts, for more details and Code explanation.
